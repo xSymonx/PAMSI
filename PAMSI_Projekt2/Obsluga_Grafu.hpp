@@ -1,6 +1,6 @@
 //
 //  Obsluga_Grafu.hpp
-//  Pamsi projekt 2 final
+//  Pamsi projekt 2
 //
 //  Created by Szymon Sztymar on 07/05/2021.
 //
