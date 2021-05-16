@@ -6,12 +6,12 @@
 
 int main()
 {
-    char wybor;          ///zainicjowanie zmiennej odpowiedzialnej za menu wyboru
+    char wybor;          
 
     std::fstream Graf;
-    std::ifstream Plik_wej;       ///zainicowanie zmiennych odpowiedzialnych za strumienie danych
+    std::ifstream Plik_wej;      
 
-    srand(time(NULL));      ///ustawienie pomiaru czasu od czasu zero
+    srand(time(NULL));      
 
     
     while(1)
